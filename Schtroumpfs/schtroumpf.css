@@ -1,0 +1,23 @@
+h1 {border: solid #0000AA 3pt; 
+    background-color: #B0E0E6;
+    color: #BB0000; text-align: center; padding: 3pt; 
+    margin-top: 5pt; margin-bottom: 5pt; 
+    margin-left: auto; margin-right: auto; width: 50%;} 
+
+h2{color:#0000BB;
+text-decoration: underline;} 
+
+ul {list-style-type: circle;} 
+
+table{background-color: #B0E0E6; border: navy solid; height: 100pt} 
+
+#ligneune{background-color: #00CEAA; border: navy;}
+#lignedeux{background-color: #87CEFA; border: navy;} 
+
+th{ border: solid navy; } 
+td {height: 100pt; border: solid grey 5pt; } 
+td.gran:hover{ background-image:url("grandSchtroumpf.jpg"); } 
+td.lun:hover{
+background-image: url("schtroumpfALunettes.jpg"); } 
+td.far:hover { background-image:url("schtroumpfFarceur.jpg"); } 
+td.ette:hover{ background-image: url("schtroumpfette.jpg"); } 

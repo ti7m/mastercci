@@ -1,0 +1,24 @@
+h1{border: 10pt ridge navy; font-size: 
+	50px; background-color: #D8BFD8; 
+	font-family: "Arial"; font-size: 16pt; 
+	margin-bottom: 20pt; padding: 5pt; width:20%; 
+	text-align: center; color: navy;
+	margin-right: auto;
+ 	margin-left: auto; } 
+
+p{ font-family: 'Open Sans', sans-serif; color: purple; font-weight: bold; } 
+
+div{background-color: #ADD8E6 ; border: solid 5pt navy;} 
+
+.lien {color:#D02090;
+border-style: ; font-weight: bold}
+
+ table{background-color: rgb(255,105,180); width: 50%; margin-left: auto; margin-right: auto; } 
+
+.entete{text-align: center; line-height: 30px; font-weight: bold;}
+.tbody{background-color: rgb(255,192,203)}
+.definition{border:inset; color: #4B0082; border-width: 5px; background-color: rgb(176,224,230) }
+.bordure{border: dotted ; border-color: white;
+border-width: 3pt; padding-left: 3pt; padding-right: 5pt; color: #FF00FF; } 
+.border-style{border-style: dotted; background-color: grey; border-color: white; }
+

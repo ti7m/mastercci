@@ -1,0 +1,23 @@
+
+h1 {border-style: ridge; border-color: #F00080;
+ 		border-width: 5pt;color: blue;
+    	text-align: center; padding: 2pt; 
+    	width: 50%;
+    	 margin-left: auto;
+    	margin-right: auto; 
+    	margin-bottom: 30pt;}
+
+
+p {font-weight: bold; color: #F00080; 
+		text-indent: 30pt;}
+
+
+select {font-style: italic; 
+		font-weight: bold;
+		background-color: aqua; 
+		color: blue;}
+
+.hautpage {background-color: aqua; padding: 10pt;}
+.milieupage {background-color: lime; padding: 10pt;}
+.baspage  {background-color: #00BFFF; padding: 10pt;}
+

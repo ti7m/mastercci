@@ -1,0 +1,52 @@
+#onglets
+{
+    font : bold 11px ;
+    list-style-type : none;
+    padding-bottom : 27px; /*cale le trait en bas*/
+    border-bottom : 3px solid #9EA0A1;
+    margin-left : 0;
+}
+
+#onglets li
+{
+    float : left; /*met les onglets sur une seule ligne*/
+    height : 21px; /* suivant la taille de la police pour centrer le texte dans l'onglet */
+    background-color: #F4F9FD;
+    border : 3px solid #9EA0A1;
+    border-radius : 10px 10px 0px 0px; /*coins hauts arrondis*/
+}
+
+#onglets li.active /*onglet actif*/
+{
+    border-bottom : 0px ; /*supprime le trait du bas */
+    background-color : #FFFFFF;/*rend le fond blanc*/
+}
+
+#onglets a
+{
+    display : block;
+    color : #080006;
+    text-decoration : none;
+    padding : 4px;
+}
+
+#onglets a:hover /*quand on passe la souris dessus*/
+{
+    background : #FFFFFF; 
+}
+
+p
+{
+    font-size : 40px;
+    margin-top : 5%;
+    text-align : center;
+}
+
+.lien
+{
+    border : 2px solid #9EA0A1;
+    border-radius : 8px;  
+    background-color : #ABCDEF;
+    color : #FFFFFF;
+    padding : 12px;
+}

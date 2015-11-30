@@ -1,0 +1,103 @@
+h1{
+
+	color: rgb(128,0,0);
+	border: inset 5px  #F88E55 ;
+	text-align: center;
+	padding: 3px;
+
+
+}
+
+h2{
+	color: rgb(128,0,0);
+	text-decoration: underline;
+	font-family: "Verdana";
+	text-align:center;
+}
+
+p{
+	font-weight: bold;
+	font-size: 14px;
+}
+
+ul{
+	margin: 3px;
+	text-align: center;;
+	font-weight: bold;
+}
+
+
+div{background-color:#B0F2B6;
+	border: 7px;
+	padding: 400px;
+	padding-top: 3px;
+	padding-bottom: 10px;
+	text-align: center
+
+}
+
+#gauche{
+	float: left;
+	background-color: #DEB887;
+	padding:  10px;
+	width: 33%;
+	padding-bottom: 15px;
+	margin-left:15px;
+}
+
+
+#centre{ overflow: hidden;
+	background-color: #FFFFA0;
+	padding: 10px;
+	padding-bottom: 15px;
+	
+}
+
+
+#droite{
+	float: right;
+	background-color:#CDA0A0;
+	padding: 10px;
+	width:33%;
+	padding-bottom: 15px;
+
+
+	
+}
+
+.baspage{
+	margin-top: 150px;
+	background-color: #F08080;
+	width: 4in;
+	height: 4px;
+	margin-top: 100px
+	
+}
+
+
+
+/*
+
+style attendu pour Menu
+
+titre : bordure effet 3D clair/foncé de couleur #F08080 d'épaisseur 3pt
+        police Arial 16pt gras, de couleur rgb(128,0,0), texte centré
+        marge intérieure de 3pt
+        réduire l'élément et le centrer
+
+paragraphe : en gras, un peu plus large que le titre, centré
+
+sous-titre : police Verdana, 14pt, de couleur rgb(128,0,0), souligné, texte centré 
+
+liste : sans puce, marge extérieures de 3pt, texte centré, caractères gras
+ 
+haut de page : fond #FFDAB9, marge intérieures 10pt
+
+colonne de gauche : fond #DEB887
+                
+colonne du centre : fond #FFFFA0
+
+colonne de droite : fond #CDA0A0
+
+ligne horizontale : largeur 4in, hauteur 4pt, couleur #F08080
+*/

@@ -1,0 +1,16 @@
+
+body{color: rgb(204,255,255); font-family: "Times New Roman"}
+
+h1{ border: 3pt double; background-color: navy ;text-align: center; text-decoration: 18pt; color: white;}
+
+div{background-color: blue ; border: solid 1px;}
+
+h2{ text-decoration: underline; font-size: 16pt; color:red;}
+
+h3{ font-size: 14pt; font-style: italic ; font-weight: bold; margin-left: 5pt; color: #228B22; }
+
+p {color: #000080; text-align: justify;font-weight: bold;margin-left: 10pt}
+
+ul{margin-left: 15pt; font-weight: bold;color:  #000080 ; list-style-type:square;}
+
+ol{margin-left: 15pt;font-weight: bold; color: #000080  ;list-style-type: lower-roman;}

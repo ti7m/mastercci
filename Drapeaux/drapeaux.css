@@ -1,0 +1,26 @@
+body {
+color:black;
+background-color:white;
+background-image:url(Collines.jpg);
+}
+
+h1{border: 3px solid navy ;
+	text-align: center; color: darkblue; 
+	width: 50%;
+	margin-left: 10%;
+}
+h3 {
+	text-decoration: underline;
+}
+
+.items{ margin-bottom: 20px;
+
+}
+.liens{
+	font-weight: bold; font-family:"Courier New fuchsia";
+	color: #FF00FF;
+}
+
+img{
+	border: solid #FF00FF;
+}
